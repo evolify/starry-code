@@ -1,0 +1,36 @@
+{
+    "name": "starry-code",
+    "displayName": "starry-code",
+    "description": "Starry theme for vscode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "starry twlight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/starry_twlight-color-theme.json"
+            },
+            {
+                "label": "starry dawn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/starry_dawn-color-theme.json"
+            },
+            {
+                "label": "starry sky",
+                "uiTheme": "vs-dark",
+                "path": "./themes/starry_sky-color-theme.json"
+            },
+            {
+                "label": "starry space",
+                "uiTheme": "vs-dark",
+                "path": "./themes/starry_space-color-theme.json"
+            }
+        ]
+    }
+}
