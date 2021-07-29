@@ -1,39 +1,44 @@
 {
-    "name": "starry-code",
-    "displayName": "starry-code",
-    "description": "Starry theme for vscode.",
-    "publisher": "evolify",
-    "version": "0.1.0",
-    "repository": "git@github.com:evolify/starry-code.git",
-    "author": "孤狼 <wolf@evolify.cn>",
-    "engines": {
-        "vscode": "^1.58.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "starry twlight",
-                "uiTheme": "vs-dark",
-                "path": "./themes/starry_twlight-color-theme.json"
-            },
-            {
-                "label": "starry dawn",
-                "uiTheme": "vs-dark",
-                "path": "./themes/starry_dawn-color-theme.json"
-            },
-            {
-                "label": "starry sky",
-                "uiTheme": "vs-dark",
-                "path": "./themes/starry_sky-color-theme.json"
-            },
-            {
-                "label": "starry space",
-                "uiTheme": "vs-dark",
-                "path": "./themes/starry_space-color-theme.json"
-            }
-        ]
-    }
+  "name": "starry-code",
+  "displayName": "starry-code",
+  "description": "Starry theme for vscode.",
+  "publisher": "evolify",
+  "version": "0.1.0",
+  "repository": "git@github.com:evolify/starry-code.git",
+  "author": "孤狼 <wolf@evolify.cn>",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "starry twlight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starry_twlight-color-theme.json"
+      },
+      {
+        "label": "starry dawn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starry_dawn-color-theme.json"
+      },
+      {
+        "label": "starry sky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starry_sky-color-theme.json"
+      },
+      {
+        "label": "starry space",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starry_space-color-theme.json"
+      },
+      {
+        "label": "starry light",
+        "uiTheme": "vs",
+        "path": "./themes/starry_light-color-theme.json"
+      }
+    ]
+  }
 }
