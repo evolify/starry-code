@@ -53,7 +53,7 @@
 		"sideBar.foreground": "#fbf1c7",
     "sideBarSectionHeader.border": "#fff2",
 		"sideBarSectionHeader.background": "#222",
-		"statusBar.background": "#0000",
+		"statusBar.background": "#222",
 		"statusBar.border": "#aaa2",
 		"statusBar.debuggingBackground": "#000000",
 		"statusBar.foreground": "#f2e5bc",
