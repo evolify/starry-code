@@ -3,7 +3,7 @@
   "displayName": "starry-code",
   "description": "Starry theme for vscode.",
   "publisher": "evolify",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "repository": "git@github.com:evolify/starry-code.git",
   "author": "孤狼 <wolf@evolify.cn>",
   "engines": {
