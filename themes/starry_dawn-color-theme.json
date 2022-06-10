@@ -4,7 +4,7 @@
   "include": "./_token_dark.json",
   "colors": {
 		"activityBar.background": "#222222",
-		"activityBar.border": "#ffffff22",
+		"activityBar.border": "#ffffff11",
 		"activityBar.foreground": "#36a3d9",
 		"activityBar.inactiveForeground": "#ffffff",
 		"activityBarBadge.background": "#ffffff",
@@ -30,7 +30,8 @@
 		"editor.wordHighlightBackground": "#ffffbe55",
 		"editor.wordHighlightStrongBackground": "#ffffbe55",
 		"editorCursor.foreground": "#ffffff",
-		"editorGroupHeader.border": "#ffffff33",
+    "editorGroupHeader.border": "#00000000",
+		"editorGroupHeader.tabsBorder": "#ffffff33",
 		"editorGroupHeader.tabsBackground": "#222222",
 		"editorGutter.addedBackground": "#00aa77",
 		"editorGutter.deletedBackground": "#cc1100",
